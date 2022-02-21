@@ -1,0 +1,40 @@
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.csprojAssemblyReference.cache
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\MainWindow.g.cs
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\App.g.cs
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.cache
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.lref
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\MainWindow.baml
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.g.resources
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\App.baml
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\Resources\ColumnHeader.baml
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\Resources\CellTemplate.baml
+C:\Users\Dr. Katona József\OneDrive - Dunaújvárosi Egyetem\ProductApp\ProductApp\obj\Debug\Resources\IndividualColumnHeader.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\Resources\ColumnHeader.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\Resources\IndividualColumnHeader.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\App.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\Resources\CellTemplate.baml
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.g.resources
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\Admin\Desktop\apps\ProductApp\ProductApp\obj\Debug\ProductApp.pdb

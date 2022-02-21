@@ -1,0 +1,35 @@
+﻿<Window x:Class="ProductApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="450">
+
+    <Grid>
+        <ListView Name="ProductsListView" ItemsSource="{Binding}" Margin="5" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn
+                        HeaderTemplate="{StaticResource IDColHeader}"
+                        CellTemplate="{StaticResource IDCellTemplate}">
+                    </GridViewColumn>
+                    <GridViewColumn 
+                        HeaderTemplate="{StaticResource NameColHeader}"
+                        CellTemplate="{StaticResource NameCellTemplate}">
+                    </GridViewColumn>
+
+                    <GridViewColumn
+                        HeaderTemplate="{StaticResource PackageColHeader}"
+                        CellTemplate="{StaticResource PackCellTemplate}">
+                    </GridViewColumn>
+
+                    <GridViewColumn
+                        HeaderTemplate="{StaticResource QtyColHeader}"
+                        CellTemplate="{StaticResource QtyCellTemplate}">
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

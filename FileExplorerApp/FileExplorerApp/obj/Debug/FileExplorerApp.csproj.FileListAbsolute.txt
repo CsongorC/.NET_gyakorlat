@@ -1,0 +1,30 @@
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csprojAssemblyReference.cache
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\App.g.cs
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.cache
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.lref
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.exe.config
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.exe
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.pdb
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\MainWindow.baml
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.g.resources
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.Properties.Resources.resources
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.GenerateResource.cache
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.exe
+C:\Users\Dr. Katona József\Downloads\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.pdb
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.exe.config
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.exe
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\bin\Debug\FileExplorerApp.pdb
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.g.resources
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.exe
+C:\Users\Admin\Desktop\apps\FileExplorerApp\FileExplorerApp\obj\Debug\FileExplorerApp.pdb

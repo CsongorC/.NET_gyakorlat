@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <DataTemplate x:Key="IDColHeader">
+        <Border Style="{StaticResource BlueBorder}">
+            <TextBlock Text="Product ID " Style="{StaticResource Text}"/>
+        </Border>
+    </DataTemplate>
+
+    <DataTemplate x:Key="NameColHeader">
+        <Border Style="{StaticResource BlueBorder}">
+            <TextBlock Text="Product Name " Style="{StaticResource Text}" />
+        </Border>
+    </DataTemplate>
+
+    <DataTemplate x:Key="PackageColHeader">
+        <Border Style="{StaticResource BlueBorder}">
+            <TextBlock Text="Pack Size " Style="{StaticResource Text}" />
+        </Border>
+    </DataTemplate>
+
+    <DataTemplate x:Key="QtyColHeader">
+        <Border Style="{StaticResource BlueBorder}">
+            <TextBlock Text="Quantity " Style="{StaticResource Text}" />
+        </Border>
+    </DataTemplate>
+
+</ResourceDictionary>
