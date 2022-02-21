@@ -1,0 +1,28 @@
+﻿<Window x:Class="cliens_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cliens_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="498.437" Width="594.062">
+    <Grid Margin="0,0,81.6,-84" >
+        <Label Content="Personal information" FontWeight="Bold" FontSize="44" HorizontalAlignment="Left" Margin="28,26,0,0" VerticalAlignment="Top" Width="514" Height="69"/>
+        <Label Content="First name" FontSize="35" HorizontalAlignment="Left" Margin="28,122,0,0" VerticalAlignment="Top"/>
+        <Label Content="Last name" FontSize="35" HorizontalAlignment="Left" Margin="28,194,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="firstNameTxtBx" HorizontalAlignment="Left" FontSize="35" Height="46" Margin="208,122,-20,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304"/>
+        <TextBox x:Name="lastNameTxtBx" HorizontalAlignment="Left" FontSize="35" Height="50" Margin="208,194,-20,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304"/>
+        <Button Content="Run me" FontSize="25" HorizontalAlignment="Left" Click="submitButton_Click" Margin="28,363,-20,0" VerticalAlignment="Top" Width="484" Height="43"/>
+        <ComboBox x:Name="NameComboBx" HorizontalAlignment="Left" Margin="28,279,-20,0" VerticalAlignment="Top" Width="484" Height="39">
+
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="C:\Users\Dr. Katona József\Desktop\avatar.jpg" Height="20" Width="20" />
+                        <TextBlock Text="{Binding fullName}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    </Grid>
+</Window>
